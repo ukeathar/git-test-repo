@@ -1,0 +1,4 @@
+git status - it will check the ststus of the git repository
+
+git init - it will intialize the empty repo
+
