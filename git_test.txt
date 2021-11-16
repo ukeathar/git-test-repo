@@ -6,7 +6,7 @@ git add <filename> - adding the file to the git repo
 
 git commit -m "comment1 - " - it commits the code in the git repo
 
-
+First needs to check:
 git config --global user.name ukeathar
 
 git config --global user.email udaykiran.eathar@gmail.com
@@ -15,6 +15,7 @@ git config --global --list
 
 git remote add origin https://github.com/ukeathar/git-test-repo.git
 
+To push the code to remote repo (git-hub)
 git push -u origin master
 
 
